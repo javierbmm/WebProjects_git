@@ -1,4 +1,4 @@
-<h5>WebProjects_git</h5>
+<h1>WebProjects_git</h1>
 
 Repository to store all my projects from the subject "Web Projects".
 
